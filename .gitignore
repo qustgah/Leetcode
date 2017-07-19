@@ -3,3 +3,10 @@
 *.class
 *.log
 
+project/target/scala-2.10/
+project/target/streams/compile/incCompileSetup/
+src/main/resources/
+src/main/scala-2.12/
+src/test/
+target/scala-2.12/
+.idea/
